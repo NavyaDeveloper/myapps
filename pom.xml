@@ -6,9 +6,8 @@
 
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <packaging>WAR</packaging>
   <version>3.0-SNAPSHOT</version>
-
+  <packaging>WAR</packaging>
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
